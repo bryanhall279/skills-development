@@ -1,0 +1,28 @@
+CE 558 Project Log
+==================
+1.	Need to extend the Cheddar Simulator to account for the PPNew Algorithm. 
+2.	Need to compare the algorithmic performance of PPNew to the traditional algorithms using Cheddar.
+3.	Need to show the benefit of using this algorithm in Cloud Computing environments over existing methods. 
+
+Extending Cheddar
+-----------------
+[ ]	Obtain Cheddar Source Code
+[ ]	Capture the source code in GitHub
+[ ]	Compile the code as is (to make sure that it works)
+[ ]	Study how tasks are managed using the existing infrastructure
+[ ]	Add the proposed algorithm to the simulator
+
+
+Compare Algorithmic Performance
+-------------------------------
+[ ]	Define a test set of tasks
+[ ]	Execute the tasks on all of the existing algorithms available in Cheddar, using the same system setup
+[ ]	Compare the utility of all of the algorithms for small threshold ranges
+[ ]	Compare the utility of all of the algorithms for medium threshold ranges
+[ ]	Compare the utility of all of the algorithms for high threshold ranges
+
+Show the Benefit of the Proposed Algorithm
+------------------------------------------
+[ ]	Identify real use cases in Cloud Computing for this algorithm
+[ ]	Demonstrate real-world cost for using traditional algorithms
+[ ]	Demonstrate real-world gain for using the proposed algorithm 
